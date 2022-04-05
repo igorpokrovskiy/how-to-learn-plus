@@ -1,0 +1,35 @@
+.resourses {
+  margin-top: 100px;
+  margin-bottom: 217px;
+}
+
+.resourses__logo-zone {
+  display: flex;
+  justify-content: center;
+  width: 1100px;
+  margin: 80px auto 0;
+  align-content: space-between;
+}
+
+.resourses__logo {
+  width: 270px;
+  height: 38px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.resourses__logo_arzamas {
+  background-image: url('../../images/logo/resources-arzamas.svg');
+}
+
+.resourses__logo_nplus1 {
+  background-image: url(../../images/logo/resources-n1.svg);
+}
+
+.resourses__logo_strelka {
+  background-image: url(../../images/logo/resources-polka.svg);
+}
+
+.resourses__logo_polka {
+  background-image: url(../../images/logo/resources-strelka.svg);
+}

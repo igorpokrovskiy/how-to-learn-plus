@@ -1,0 +1,69 @@
+.header {
+  height: 100vh;
+  min-height: 600px;
+  max-height: 756px;
+  background-color: #f2f2f2;
+  position: relative;
+  display: flex;
+  margin: auto;
+}
+
+.logo{
+  width: 183px;
+  position: absolute;
+  left: 64px;
+  z-index: 1;
+  background-repeat: no-repeat;
+}
+
+.logo_place-header {
+  height: 32px;
+  top: 30px;
+  background-image: url(../../images/logo.svg);
+}
+
+.header_title {
+  width: 730px;
+  padding-left: 64px;
+  display: flex;
+  align-items: center;
+  z-index: 1;
+  line-height: 96px;
+  font-size: 102px;
+  font-weight: bold;
+}
+
+.header_subtitle {
+  position: absolute;
+  left: 64px;
+  bottom: 30px;
+  z-index: 1;
+  width: 388px;
+  line-height: 25px;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.header_link{
+color: #2f80ed;
+text-decoration: none;
+}
+
+.header_main-illustration {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  width: 765px;
+  height: 608px;
+  z-index: 1;
+}
+
+.header_main-square-pic {
+  display: block;
+  position: absolute;
+  top: 64px;
+  right: 0;
+  height: 568px;
+  width: 568px;
+  background-color: #2f80ed;
+}
