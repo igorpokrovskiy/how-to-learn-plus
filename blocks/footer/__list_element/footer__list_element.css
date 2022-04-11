@@ -1,0 +1,9 @@
+.footer__list_element {
+  margin-bottom: 10px;
+}
+
+.footer__list_element:hover {
+  opacity: .7;
+  transition: opacity .2s ease-out;
+
+}

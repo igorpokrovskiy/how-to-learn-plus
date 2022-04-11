@@ -1,0 +1,8 @@
+.table_theme-dark {
+	padding: 0;
+	margin: 0 auto;
+	justify-content: space-between;
+	align-content: space-between;
+	position: relative;
+	z-index: 1;
+}
