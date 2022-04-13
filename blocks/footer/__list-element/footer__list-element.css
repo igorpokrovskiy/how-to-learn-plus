@@ -1,8 +1,8 @@
-.footer__list_element {
+.footer__list-element {
   margin-bottom: 10px;
 }
 
-.footer__list_element:hover {
+.footer__list-element:hover {
   opacity: .7;
   transition: opacity .2s ease-out;
 
